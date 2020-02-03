@@ -57,3 +57,5 @@ composer.lock
 # NPM
 /node_modules/
 phpstan.neon
+# Desktop Services Store (Mac)
+.DS_Store
